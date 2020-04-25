@@ -1,0 +1,13 @@
+---
+name: lawn
+main: xtakumatutix\lawn\Main
+version: 1.0.0
+api: 3.0.0
+commands:
+ lawn:
+  description: "ローンを組ませます"
+  usage: /warp <プレイヤー> [金額]
+ repayment:
+  description: "返済します"
+  usage: /repayment <返済額>
+...
